@@ -66,7 +66,7 @@ python bot.py
 
         <th>API_KEY</th>
 
-        <th>Your PDisk API Key from <a href='https://telegram.me/VideoToolMoneyTreeBot/'>Mdisk API</a> & Get Key using `/getapikey`</th>
+        <th>Your MDisk API Key from <a href='https://telegram.me/VideoToolMoneyTreeBot/'>Mdisk API</a> & Get Key using `/getapikey`</th>
 
     </tr>
 
@@ -94,7 +94,7 @@ python bot.py
 
 - Thanks for [PAZZU420](https://github.com/PAZZU420/) for this Project.
 
-- Thanks for Wrap of [AkKiL](https://github.com/HeimanPictures/)'s  [Mdisk](https://github.com/HeimanPictures/Mdisk).
+- Thanks for Wrap of [PAZZU420](https://github.com/PAZZU420/)'s  [Mdisk](https://github.com/PAZZU420/Mdisk).
 
 - Thanks for [Dan](https://github.com/delivrance)'s [Pyrogram](https://github.com/pyrogram/pyrogram).
 
